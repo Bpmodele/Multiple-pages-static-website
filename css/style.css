@@ -1,0 +1,11 @@
+body {
+  background: grey;
+}
+h1 {
+  text-align: center;
+  color: green;
+}
+
+a {
+  color: blue;
+}
